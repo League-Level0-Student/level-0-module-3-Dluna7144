@@ -5,7 +5,7 @@ public class NinetyNineBottles {
 		
 	String string1="Bottles of beer";
 	String string2=" on the wall";
-	String string3="Take one down,pass it around";
+	String string3=" Take one down,pass it around";
 		
 	for (int i = 99; i > 0; i--) {
 	
